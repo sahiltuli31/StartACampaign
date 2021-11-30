@@ -1,0 +1,27 @@
+.background-2 {
+  background-color: rgb(218, 214, 208);
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 850px;
+}
+
+.background-2 .container {
+  font-family: "Hind", sans-serif;
+  padding: 30px;
+  border: 0px solid black;
+  background-color: rgba(255, 255, 255, 0);
+  scroll-behavior: unset;
+  box-shadow: 3px 3px 4px 4px rgb(126, 125, 124);
+  width: 500px;
+  border-radius: 20px;
+  height: auto;
+  position: relative;
+  top: 100px;
+}
+form label {
+  padding-top: 5px;
+}
+form .btn {
+  margin-top: 20px;
+  margin-left: 3px;
+}

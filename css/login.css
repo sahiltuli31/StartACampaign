@@ -1,0 +1,36 @@
+.background {
+  background: url(../login.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 577px;
+}
+
+.login {
+  padding: 20px;
+  border: 0px solid black;
+  background-color: rgba(255, 255, 255, 0);
+  scroll-behavior: unset;
+  box-shadow: 3px 3px 4px 4px rgb(126, 125, 124);
+  width: 500px;
+  border-radius: 20px;
+  height: 550px;
+  position: relative;
+  top: 45px;
+  left: 680px;
+}
+.login h5 {
+  color: black;
+  text-decoration: underline black;
+}
+.login .mb-3 {
+  font-size: 1.4rem;
+}
+.login label {
+  font-size: 1.2rem;
+}
+.login .error {
+  color: rgb(196, 14, 14);
+  font-size: 0.95rem;
+}

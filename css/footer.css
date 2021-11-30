@@ -1,0 +1,25 @@
+.footer {
+  position: relative;
+  top: 200px;
+  height: 250px;
+  width: 98%;
+  margin: 0 auto;
+  border-top: solid 1px black;
+  background-color: rgb(33, 37, 41);
+
+  border-radius: 10px;
+}
+
+a {
+  margin-left: 30px;
+}
+img {
+  height: 90px;
+}
+h5 {
+  padding-left: 150px;
+  padding-top: -20px;
+  padding-bottom: 5px;
+  color: azure;
+  font-weight: 600;
+}

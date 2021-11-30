@@ -1,0 +1,18 @@
+.navbar-img {
+  height: 70px;
+  margin-top: -10px;
+}
+
+a {
+  font-family: "Hind", sans-serif;
+  font-size: 1.1rem;
+}
+li {
+  padding-left: 25px;
+}
+.nav-colored {
+  background-color: #000;
+}
+.nav-transparent {
+  background-color: transparent;
+}

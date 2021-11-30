@@ -1,0 +1,43 @@
+.background {
+  background: url(../login.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 950px;
+}
+.signup .mb-3 {
+  font-size: 0.75rem;
+}
+.signup {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0);
+  border: 0px solid black;
+  scroll-behavior: unset;
+  box-shadow: 3px 3px 4px 4px rgb(126, 125, 123);
+  width: 500px;
+  border-radius: 20px;
+  height: fit-content;
+  position: relative;
+  top: 100px;
+  left: 650px;
+}
+.signup .large {
+  height: 100px;
+}
+.signup h5 {
+  color: black;
+  text-decoration: underline black;
+  margin-top: -10px;
+}
+.signup .mb-3 {
+  font-size: 1rem;
+}
+.signup label {
+  font-size: 1rem;
+  padding-top: 7px;
+}
+.error {
+  color: rgb(196, 14, 14);
+  font-size: 0.95rem;
+}

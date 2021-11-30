@@ -1,0 +1,21 @@
+.error .container {
+  margin-top: 8vh;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.error img {
+  max-width: 100%;
+  height: auto;
+  width: auto\12; /* ie8 */
+  position: relative;
+  margin-left: 25vh;
+}
+.error {
+  background-color: rgb(235, 231, 231);
+}
+.error h1 {
+  color: black;
+  font-family: "Montagu Slab", serif;
+}
